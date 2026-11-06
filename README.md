@@ -101,7 +101,7 @@ sur Discord dans l'anti-chambre-des-novices le lien de ton travail, <br>
 annonce toi en invoquant notre **@Secrétaire-Perpétuel**.<br>
 Il te contactera pour évaluer ta progression.<br>
 Lorsque tu auras vaincu les 10 tâches, <br>
-notre **Nommateur-Omnilinguiste** déclanchera <br>
+notre **@Nommateur-Omnilinguiste** déclanchera <br>
 la cérémonie d'adoubement te permettant de recevoir <br>
 ton Titre de noblesse du *Haut-Palais-Virtuel*, <br>
 tu accèderas aussi au prestigieux Salon-des-Titrès.
